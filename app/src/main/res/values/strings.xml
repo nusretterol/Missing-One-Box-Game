@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eksik Bir Kare</string>
+    <string name="action_settings">AYARLAR</string>
+    <string name="action_new">YENİ OYUN</string>
+    <string name="action_about">MOLA</string>
+    <string name="action_leaderboard">KAYITLAR</string>
+    <string name="info_moves">HAMLELER</string>
+    <string name="info_time">SÜRE</string>
+    <string name="info_win">Bravo Çözüldü!</string>
+    <string name="info_pause">Molar</string>
+    <string name="pref_width">Genişlik</string>
+    <string name="pref_height">Yükseklik</string>
+    <string name="pref_color">Renk</string>
+    <string name="pref_color_mode">Tema Rengi</string>
+    <string name="pref_mode">Tip</string>
+    <string name="pref_animation">Animasyon</string>
+    <string name="pref_bf">Oyun Modu</string>
+    <string name="pref_sort">Sırala</string>
+    <string name="back">geri</string>
+    <string name="info_no_data">veri yok</string>
+    <string name="about">hakkında</string>
+
+    <string-array name="toggle">
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="difficulty_modes">
+        <item>Kolay</item>
+        <item>Zor</item>
+    </string-array>
+    <string-array name="color_mode">
+        <item>Gündüz</item>
+        <item>Gece</item>
+    </string-array>
+    <string-array name="game_modes">
+        <item>Klasik</item>
+        <item>Yılan</item>
+    </string-array>
+    <string-array name="sort_types">
+        <item>Harekete göre(en az)</item>
+        <item>Zamana göre(en az)</item>
+    </string-array>
+
+</resources>
